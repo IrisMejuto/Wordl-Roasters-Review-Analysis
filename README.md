@@ -4,6 +4,7 @@ This Power BI project provides an in-depth analysis of coffee brand reviews, foc
 <div align="center">
 <img src="" alt="Logo" width="800" height="500">
 </div>
+
 ## 📊 Dashboard
 You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard]()
 
