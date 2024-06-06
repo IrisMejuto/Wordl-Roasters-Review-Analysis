@@ -21,7 +21,7 @@ The dataset is made up of 1 file, you can download:
 ## 🖇️ Model
 The data modeling stage involved creating a relational data model that reflects the relationships between Brands, Roasters, Types of Roast, Prices, Ratings, and Reviews.
 
-![image]()
+![image](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/Images/Model.png)
 
 ## ❓ Key questions the project answers
 * ✅ 1. What is the most expensive coffee per 100g, and what features distinguish it?
