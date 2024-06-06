@@ -33,4 +33,4 @@ The data modeling stage involved creating a relational data model that reflects 
 * ✅ 7. Which country contributes the most to the dataset in terms of coffee production?
 * ✅ 8. Is there any relationship between the price of coffee and its rating, considering different origins and roasts?
 * ✅ 9. In North America (Roaster location), show a word cloud visual of their coffee’s Aroma.
-* ✅ 10. Top 5 high average rating coffee brands in Asia, do they have a common Mouthfeel? Provide recommendations for future Asian markets.
+* ✅ 10. Top 5 high average rating coffee brands in Asia, do they have a common Mouthfeel?
