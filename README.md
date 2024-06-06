@@ -2,7 +2,7 @@
 This Power BI project provides an in-depth analysis of coffee brand reviews, focusing on various aspects such as average ratings, prices, and reviews. #PowerBI
 
 <div align="center">
-<img src="" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/Images/5%20Wordl%20Roasters%20Review%20Analysis.jpg" alt="Logo" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
