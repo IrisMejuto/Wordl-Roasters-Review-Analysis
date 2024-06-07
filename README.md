@@ -6,7 +6,7 @@ This Power BI project provides an in-depth analysis of coffee brand reviews, foc
 </div>
 
 ## 📊 Dashboard
-You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard]()
+You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyNGM3YzktZDc4Zi00NjAzLWJkYTUtZjQzNzM2NmM1N2IxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## 🪟 Overview
 In this project, conducted with Power BI, I focus on analyzing coffee brand review data. The report includes detailed visualizations that provide insights into coffee ratings, price trends, and reviews across various dimensions.
