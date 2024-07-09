@@ -1,5 +1,5 @@
 # Wordl-Roasters-Review-Analysis
-This Power BI project provides an in-depth analysis of coffee brand reviews, focusing on various aspects such as average ratings, prices, and reviews. #PowerBI
+This Power BI project was selected as [2 Runner Up](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/Images/Reward%20Data%20Challenge.pdf) of the Challenge 16 - World Roasters Review (FP20 Analytics). It provides an in-depth analysis of coffee brand reviews, focusing on various aspects such as average ratings, prices, and reviews. #PowerBI
 
 <div align="center">
 <img src="https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/Images/5%20Wordl%20Roasters%20Review%20Analysis.jpg" alt="Logo" width="800" height="500">
