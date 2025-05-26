@@ -6,7 +6,7 @@ This Power BI project was selected as [2 Runner Up](https://github.com/IrisMejut
 </div>
 
 ## 📊 Dashboard
-You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzgyNGM3YzktZDc4Zi00NjAzLWJkYTUtZjQzNzM2NmM1N2IxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/cc5a38901d181e3b7dcc7d2c5833ef45?challenge=fp20-analytics-may-2024)
 
 ## 🗃️ Download report
 You can download the report in a pbix file [🗃️Report Power BI](https://github.com/IrisMejuto/Wordl-Roasters-Review-Analysis/blob/main/Coffee%20Roaster.pbix)
